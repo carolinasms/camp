@@ -1,6 +1,6 @@
 {
-  "name": "Meu Aplicativo",
-  "short_name": "Meu App",
+  "name": "CAMP",
+  "short_name": "CAMP",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
